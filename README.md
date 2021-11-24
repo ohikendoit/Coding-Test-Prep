@@ -1,4 +1,4 @@
-# Coding Test Prep
+# algorithm exercise
 
 Guideline provided by the book '이것이 코딩 테스트다 with Python' (2020)
 
